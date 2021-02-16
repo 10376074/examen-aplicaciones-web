@@ -1,0 +1,44 @@
+body.background{
+    background-color: darksalmon;
+}
+
+h1.titulo1{
+    text-align: center;
+}
+
+div.div1{
+    background-color: white;
+}
+
+hr.hr1{
+    color: whitesmoke;
+}
+
+div.div2{
+    background-color: yellow;
+    text-align: center;
+}
+
+div.div3{
+    background-color: yellow;
+    text-align: center;
+}
+
+span.resaltar{
+    color: red;
+}
+
+p.bitcoin{
+    position: relative;
+    left: 1100px;
+}
+
+p.etherum{
+position: relative;
+left: 900px;
+}
+
+p.litecoin{
+    position: relative;
+    left: 300px;
+}
